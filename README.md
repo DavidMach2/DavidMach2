@@ -23,7 +23,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidmach2&show_icons=true&locale=en&layout=compact" alt="davidmach2" /></p>
-
+<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmach2&show_icons=true&locale=en" alt="davidmach2" /></p>
 <br>
